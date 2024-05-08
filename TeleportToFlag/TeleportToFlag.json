@@ -1,0 +1,14 @@
+{
+  "Author": "Strates",
+  "Name": "TeleportToFlag",
+  "Punchline": "Teleport to map markers by Control-clicking them in chat.",
+  "Description": "Will find the closest Aetheryte when Control-clicking a map marker in chat and automatically teleport to it.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "map",
+    "flag",
+    "marker",
+    "teleport",
+    "aetheryte"
+  ]
+}
